@@ -1,5 +1,6 @@
 # Hello-CSCE-155E
-Repository For Hacks and things for CECE 155E
+
+/Repository For Hacks and things for CECE 155E
 /**
  * Author: Derek Robbins
  * Date: 2018/08/23
@@ -16,3 +17,6 @@ int main(int argc, char **argv) {
 
   return 0;
 }
+
+
+

@@ -1,8 +1,8 @@
 /**
- * Author: Derek Robbins and Nicholas 
- * Date: 2018/08/21
+ * Author: Derek Robbins
+ * Date: 2018/08/23
  *
- * A simple hello world program in C
+ * Hack Number 1
  *
  */
 #include<stdlib.h>
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello Derek and Nicholas!\n");
+  printf("Derek: Veterinary Science\n");
 
   return 0;
 }
